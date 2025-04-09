@@ -60,9 +60,9 @@ Open the folder using VS Code or your preferred code editor.
 
 ## 3. Setup with XAMPP
 Move the entire LeadEx folder to this directory:
-``bash
+
 C:/xampp/htdocs/LeadEx
-```
+
 - Open XAMPP Control Panel
 
 - Start Apache and MySQL
