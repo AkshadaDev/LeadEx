@@ -31,20 +31,12 @@ LeadEx/ ├── index.html ├── login.html ├── register.html ├─
 
 ## 🚀 Getting Started
 
-1. Clone the repo:
+Follow these steps to run the project locally:
+
+### 1. Clone the Repository
 ```bash
 git clone https://github.com/AkshadaDev/LeadEx.git
-2. Open with VS Code or your preferred IDE.
 
-3. Setup XAMPP:
-
-4. Move the project folder to htdocs.
-
-5. Start Apache & MySQL from XAMPP Control Panel.
-
-6. Import the .sql file into PHPMyAdmin.
-
-7. Visit http://localhost/LeadEx/ in your browser.
 ```
 ## 🧠 Inspiration
 This project was built to bridge the gap between people who have valuable customer data (leads) and businesses who need them. Whether you’re a freelancer, startup, or a large company — LeadEx makes lead exchange simple.
