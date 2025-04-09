@@ -55,7 +55,7 @@ Follow these steps to run the project locally:
 ```bash
 git clone https://github.com/AkshadaDev/LeadEx.git
 ```
----
+
 ## 2. Open the Project
 Open the folder using VS Code or your preferred code editor.
 ---
