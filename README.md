@@ -73,6 +73,11 @@ Open your browser and go to:
 
 http://localhost/phpmyadmin
 
+## 5. Run the Project
+Now open this in your browser: http://localhost/LeadEx/
+
+## ✅ You should now see your LeadEx homepage!
+
 
 ---
 ## 🧠 Inspiration
