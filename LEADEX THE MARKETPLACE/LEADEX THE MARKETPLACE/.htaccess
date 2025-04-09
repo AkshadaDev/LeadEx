@@ -1,0 +1,19 @@
+RewriteEngine On
+RewriteBase /leadex/
+
+# Allow direct access to files and directories
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+# Security headers
+<IfModule mod_headers.c>
+    Header set X-Content-Type-Options "nosniff"
+    Header set X-XSS-Protection "1; mode=block"
+    Header set X-Frame-Options "SAMEORIGIN"
+</IfModule>
+
+# Protect against script injections
+<FilesMatch "\.(php|php3|php4|php5|phtml|html|htm)$">
+    Order Allow,Deny
+    Allow from all
+</FilesMatch>
