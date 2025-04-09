@@ -1,6 +1,6 @@
 # 💼 LeadEx - A Lead Marketplace Platform
 
-LeadEx is a simple and powerful web platform where users can **buy and sell leads**, just like how OLX works for products. It connects buyers and sellers of verified business or customer leads, making the lead generation process more efficient and accessible.
+LeadEx is a simple and powerful web platform where users can **buy and sell leads**. It connects buyers and sellers of verified business or customer leads, making the lead generation process more efficient and accessible.
 
 ---
 
@@ -70,9 +70,9 @@ C:/xampp/htdocs/LeadEx
 
 ## 4. Configure Database
 Open your browser and go to:
-``bash
+
 http://localhost/phpmyadmin
-```
+
 
 ---
 ## 🧠 Inspiration
