@@ -14,11 +14,13 @@ LeadEx is a simple and powerful web platform where users can **buy and sell lead
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-- **Frontend**: HTML, CSS, JavaScript  
-- **Backend**: PHP  
-- **Database**: MySQL (via XAMPP & PHPMyAdmin)  
+| Layer      | Technology                      |
+|------------|----------------------------------|
+| Frontend   | HTML, CSS, JavaScript            |
+| Backend    | PHP                              |
+| Database   | MySQL (via XAMPP & PHPMyAdmin)   |
 
 ---
 
