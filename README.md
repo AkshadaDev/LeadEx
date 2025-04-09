@@ -95,10 +95,12 @@ Now open this in your browser: http://localhost/LeadEx/
 ![buyer2_dashboard](https://github.com/user-attachments/assets/1e322462-c2f8-4cf5-a852-8a8d8a16197f)
 ---
 
-![brows_leads](https://github.com/user-attachments/assets/06fd03c4-e322-4bc0-b106-554e01493b05)
+![seller_dashboard](https://github.com/user-attachments/assets/17b0ba37-6f2e-41a2-82f3-ccf094f907c0)
+
 ---
 
-![seller_dashboard](https://github.com/user-attachments/assets/17b0ba37-6f2e-41a2-82f3-ccf094f907c0)
+![brows_leads](https://github.com/user-attachments/assets/06fd03c4-e322-4bc0-b106-554e01493b05)
+---
 
 
 ---
