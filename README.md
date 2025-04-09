@@ -55,6 +55,8 @@ Follow these steps to run the project locally:
 ```bash
 git clone https://github.com/AkshadaDev/LeadEx.git
 
+```
 
+---
 ## 🧠 Inspiration
 This project was built to bridge the gap between people who have valuable customer data (leads) and businesses who need them. Whether you’re a freelancer, startup, or a large company — LeadEx makes lead exchange simple.
