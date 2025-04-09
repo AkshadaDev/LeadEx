@@ -82,14 +82,19 @@ Now open this in your browser: http://localhost/LeadEx/
 ## 📸 Screenshots
 
 ![leadex_ homepage](https://github.com/user-attachments/assets/703b6c29-aaec-4b05-8ecf-388a095a5029)
+---
 
 ![leadex_registerPage](https://github.com/user-attachments/assets/f6873662-baab-4d08-89d7-e985ebe0dcd8)
+---
 
 ![buyer2_dashboard](https://github.com/user-attachments/assets/1e322462-c2f8-4cf5-a852-8a8d8a16197f)
+---
 
 ![brows_leads](https://github.com/user-attachments/assets/06fd03c4-e322-4bc0-b106-554e01493b05)
+---
 
 ![seller_dashboard](https://github.com/user-attachments/assets/17b0ba37-6f2e-41a2-82f3-ccf094f907c0)
+
 
 ---
 
