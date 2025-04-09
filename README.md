@@ -25,7 +25,25 @@ LeadEx is a simple and powerful web platform where users can **buy and sell lead
 
 ## 📁 Folder Structure
 
-LeadEx/ ├── index.html ├── login.html ├── register.html ├── dashboard.html ├── css/ │ └── styles.css ├── js/ │ └── main.js ├── php/ │ ├── login.php │ ├── register.php │ └── dbconnect.php └── README.md
+## 📁 Project Structure
+
+```
+LeadEx/
+├── index.html
+├── login.html
+├── register.html
+├── dashboard.html
+├── css/
+│   └── styles.css
+├── js/
+│   └── main.js
+├── php/
+│   ├── login.php
+│   ├── register.php
+│   └── dbconnect.php
+└── README.md
+```
+
 
 ---
 
@@ -37,6 +55,6 @@ Follow these steps to run the project locally:
 ```bash
 git clone https://github.com/AkshadaDev/LeadEx.git
 
-```
+
 ## 🧠 Inspiration
 This project was built to bridge the gap between people who have valuable customer data (leads) and businesses who need them. Whether you’re a freelancer, startup, or a large company — LeadEx makes lead exchange simple.
