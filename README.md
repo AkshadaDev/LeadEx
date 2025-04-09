@@ -57,8 +57,8 @@ git clone https://github.com/AkshadaDev/LeadEx.git
 ```
 
 ## 2. Open the Project
-Open the folder using VS Code or your preferred code editor.
----
+  Open the folder using VS Code or your preferred code editor.
+
 
 ## 3. Setup with XAMPP
 Move the entire LeadEx folder to this directory:
