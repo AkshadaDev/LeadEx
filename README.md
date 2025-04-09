@@ -63,11 +63,10 @@ Move the entire LeadEx folder to this directory:
 ``bash
 C:/xampp/htdocs/LeadEx
 ```
----
 - Open XAMPP Control Panel
 
 - Start Apache and MySQL
----
+
 
 ## 4. Configure Database
 Open your browser and go to:
